@@ -1,9 +1,9 @@
 # Weather-forecast
 
-##Overview
+
 This project is a Java application that integrates with the Weather API from Rapid API to provide weather forecast information. It exposes RESTful APIs to retrieve weather forecast summaries and hourly details.
 
-##Getting Started
+Getting Started
 To run this project locally, follow these steps:
 
 1. Clone the repository
@@ -16,9 +16,9 @@ To run this project locally, follow these steps:
    Username: `user`
    Password: <password_generated_in_console>
 
-##Technologies Used :-
-  Programming languages : Core Java
-  Framework : Spring Boot, Spring Data JPA, Hibernate with JPA, JSP
-  Frontend Technologies : HTML, CSS
+Technologies Used :-
+  Programming languages : Core Java.
+  Framework : Spring Boot, Spring Data JPA, Hibernate with JPA, JSP.
+  Frontend Technologies : HTML, CSS.
   Rapid API
   
